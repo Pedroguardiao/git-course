@@ -7,3 +7,4 @@
 comando git u
 
 # comando git fetch 
+fazendo alguma coisa neste repositorio 
