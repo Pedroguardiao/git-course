@@ -6,4 +6,4 @@
 
 comando git u
 
-comando git fat 
+# comando git fetch 
