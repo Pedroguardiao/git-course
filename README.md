@@ -5,3 +5,5 @@
 ### nova alteração no repositorio 
 
 comando git u
+
+comando git fat 
